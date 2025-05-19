@@ -1,0 +1,105 @@
+a{
+    text-decoration: none;
+    color: black;
+}
+
+header{
+    width: 780px;
+    height: 40px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border: 2px solid greenyellow;
+    margin: auto;
+}
+
+.kotta{
+   background-image: url(./photo_2025-05-19_14-06-43.jpg);
+   display: flex;
+   justify-content: center;
+   align-items: end;
+   width: 780px;
+   height: 390px;
+   background-repeat: no-repeat;
+   background-size: 100%;
+   margin: auto;
+   
+
+}
+
+.kichik{
+    color: rgb(255, 255, 255);
+    margin-bottom:170px;
+    margin-left: 50px;
+}
+
+.rasm1{
+    width: 200px;
+    height: 300px;
+    margin-left: 300px;
+
+}
+
+button{
+    background-color: red;
+    width: 159px;
+    height: 26px;
+    border-radius: 15px;
+}
+
+
+h1{
+    text-align: center;
+}
+
+
+
+
+.main1{
+    width: 1000px;
+    height: 300px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: auto;
+}
+
+.main2{
+    width: 1000px;
+    height: 300px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: auto;
+}
+
+
+.oxiri{
+    background-color: aqua;
+}
+
+
+footer{
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 50px;
+}
+
+a{
+    text-decoration: none;
+    color: aliceblue;
+}
+
+nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 200px;
+}
+
+.lala{
+    width: 30px;
+    height: 30px;
+}
